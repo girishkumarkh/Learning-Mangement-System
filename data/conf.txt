@@ -1,0 +1,3 @@
+ideal_hispeed 3
+ideal_lowspeed 0
+ideal_acchispeed 0.2
